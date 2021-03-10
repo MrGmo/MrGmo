@@ -2,7 +2,7 @@
 
 ### Hello there! My name is Guillermo Aguilar. 👋 🤓
 
-I'm a Full Stack Software Engineer out of Austin, Texas. I'm currently working on my computer engineering degree and as a freelance developer. I have a deep interest in AI and a proven track record of creating the best products possible for my clients.
+I'm a Full Stack Software Engineer out of Austin, Texas. I'm currently finishing my computer engineering degree and working as a freelance developer. I have a deep interest in AI and a proven track record of creating the best products possible for my clients.
 
 What I'm working on: Data Structure Optimization and Animated Path Finding Algorithms Projects. 🚀 
 
