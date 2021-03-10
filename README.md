@@ -1,4 +1,4 @@
-![header image](https://raw.github.com/account/MrGmo/master/HeaderPic.png)
+![header image](https://raw.github.com/MrGmo/MrGmo/master/HeaderPic.png)
 
 ### Hello there! My name is Guillermo Aguilar. 👋 🤓
 
