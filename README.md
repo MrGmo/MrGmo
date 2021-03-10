@@ -1,4 +1,4 @@
-![](https://i.imgur.com/IgHpy06.png)
+![](https://imgur.com/MVzMTYt6.png)
 
 ### Hello there! My name is Guillermo Aguilar. 👋 🤓
 
