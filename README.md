@@ -1,17 +1,11 @@
 [![Header](https://raw.githubusercontent.com/MrGmo/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 
-
-
-![](https://i.imgur.com/M5m4XMs.png)
-
-
-
 ### Hello there! My name is Guillermo Aguilar. 👋 🤓
 
-I'm a Full Stack Software Engineer based out of Austin, Texas. I'm currently working on my Computer Engineering Degree and as a freelance developer. I have a deep interest in AI and a proven track record of creating the best products possible for my clients. (HTML, CSS, JS, React, Native, Node, MongoDB, PostgreSQL, OOP, and Web Accessibility).
+I'm a Full Stack Software Engineer based out of Austin, Texas. I'm currently working on my Computer Engineering Degree and as a freelance developer. I have a deep interest in AI and a proven track record of creating the best products possible for my clients.
 
-What I'm working on: Data Structure Optimization 🚀 Animated Path Finding Algorithms 🚀 Optimal Acceleration Rates 🚀
+What I'm working on: Data Structure Optimization and Animated Path Finding Algorithms Projects. 🚀 
 
 
 ## My Skill Set  
