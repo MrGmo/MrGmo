@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MrGmo/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+![](https://i.imgur.com/IgHpy06.png)
 
 ### Hello there! My name is Guillermo Aguilar. 👋 🤓
 
