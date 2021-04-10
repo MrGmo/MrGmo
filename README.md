@@ -67,7 +67,7 @@ What I'm working on: Data Structure Optimization and Animated Path Finding Algor
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrGmo&show_icons=true&locale=en" align="center" width="40%"/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrGmo&show_icons=true&locale=en" align="center" width="41%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGmo" align="center" width="40%"/>
 </div> 
 
