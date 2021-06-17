@@ -4,6 +4,7 @@
 
 I'm a Full Stack Software Engineer out of Austin, Texas. I'm currently finishing my computer engineering degree and working at 100Devs. I have a deep interest in AI and a proven track record of creating the best products possible for our clients.
 
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
  
