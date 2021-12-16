@@ -2,7 +2,7 @@
 
 ### Hello there! My name is Guillermo Aguilar. 👋 🤓
 
-I'm a Full Stack Software Engineer out of Austin, Texas. I have a deep interest in AI and a desire to leverage technology to build a brighter and more equitable future for everyone. I'm currently learning Django and finishing a computer engineering degree at the University of Texas - Austin. Connect with me!
+I'm a Full Stack Software Engineer out of Austin, Texas. I have a deep interest in AI and a desire to leverage technology to build a brighter and more equitable future for everyone. I'm currently building a machine learning app that includes object and facial detection using Microsoft Azure's AI models. Connect with me!
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
