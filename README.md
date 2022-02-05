@@ -2,7 +2,7 @@
 
 ### Hello there! My name is Guillermo Aguilar. 👋 🤓
 
-I'm a Full Stack Software Engineer out of Austin, Texas. I have a deep interest in AI and a desire to leverage technology to build a brighter and more equitable future for everyone. I'm currently building a machine learning app that scans images you upload through various AI models from Microsoft Azure and detects the criteria you set. Connect with me!
+I'm a Full Stack Software Engineer out of Austin, Texas. I have a deep interest in AI and a desire to leverage technology to build a brighter and more equitable future for everyone. I'm currently learning C++ because why not. Connect with me! :)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
